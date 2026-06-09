@@ -182,7 +182,7 @@ Users can enter applicant information and instantly receive a credit risk predic
 ![Data Overview](Credit_Scoring_System/images/dataset_overview.png)
 
 Provides a summary of the dataset, including record counts, feature information, and data quality insights.
----
+
 ### Feature Insights
 ![Feature Insights](Credit_Scoring_System/images/feature_insights.png)
 
@@ -192,7 +192,7 @@ Interactive visualizations highlighting feature distributions and their impact o
 ![Model Analytics](Credit_Scoring_System/images/model_analytics.png)
 
 Displays model performance metrics, accuracy scores, confusion matrix, and comparative analysis.
----
+
 
 ## 📂 Project Structure
 
