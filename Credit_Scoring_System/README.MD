@@ -168,7 +168,7 @@ Deploy the trained model using Streamlit.
 
 ### Dashboard View
 
-![Prediction Page](images/dashboard.png)
+![Dashbord](images/gui.png)
 
 The dashboard presents key insights, model statistics, and visual analytics in an interactive format.
 
