@@ -253,12 +253,10 @@ streamlit run app.py
 
 Try the deployed application here:
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 
-🔗 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)]([https://your-app-url.streamlit.ap](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app))
-
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/))
 
 
 ## 🔮 Future Enhancements
