@@ -253,9 +253,9 @@ streamlit run app.py
 
 Try the deployed application here:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app)
 
-🔗 Live App: [https://your-app-url.streamlit.app](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
+🔗 Live App: [(https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz..streamlit.app](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
 
 
 ## 🔮 Future Enhancements
