@@ -249,6 +249,13 @@ streamlit run app.py
 3. The model analyzes the data.
 4. Risk prediction is displayed instantly.
 
+
+## 🌐 Live Demo
+
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
 ---
 
 ## 🔮 Future Enhancements
