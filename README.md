@@ -249,7 +249,14 @@ streamlit run app.py
 3. The model analyzes the data.
 4. Risk prediction is displayed instantly.
 
----
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+
+🔗 Live App: [https://your-app-url.streamlit.app](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
+
 
 ## 🔮 Future Enhancements
 
