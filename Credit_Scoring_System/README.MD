@@ -150,7 +150,7 @@ Deploy the trained model using Streamlit.
 credit-scoring-system/
 │
 ├── app.py
-├── credit_scoring.ipynb
+├── credit_score_model.ipynb
 ├
 ├── requirements.txt
 ├── README.md
