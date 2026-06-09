@@ -251,8 +251,6 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Try the deployed application here:
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 
